@@ -18,4 +18,12 @@ using the command :
 python3 -m visdom.server -port 6006
 ```
 
+TO DO : 
+
+Adpat to another dataset (on going) 
+make sure their no miss with dimensions (by mb cange number of input and ouput channels) 
+make a quick report with vizualisation 
+
+chnage vizdom shit for tenosrboard image
+
 
