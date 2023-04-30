@@ -29,7 +29,7 @@ To have a better visualization of the segmentation masks, you can pass __--save_
 a nice verion of masks with colors for each classes *./sampling_[datetime]/niced*.
 
 ## Defining your own Dataset 
-```
+```python
 
 class MyDataset(torch.utils.data.Dataset) : 
 
