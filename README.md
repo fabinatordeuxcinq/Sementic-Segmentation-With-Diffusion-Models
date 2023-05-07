@@ -1,7 +1,10 @@
 # Sementic-Segmentation-With-Diffusion-Models
 Forked project from Julia Wolleb project : https://github.com/JuliaWolleb/Diffusion-based-Segmentation
 
-This is a improved version that allow Semantic Segmentation and more general framework.
+Paper : [Diffusion Models for Implicit Image Segmentation Ensembles (Wolleb and al)](https://arxiv.org/abs/2112.03145)
+
+This is a improved version that allow Semantic Segmentation (muticlasses segmentation) and let you choose how many channels you have
+as input.
 
 ## Usage 
 Training a diffusion model for Semantic Segmentation can be done by calling,
